@@ -7,6 +7,7 @@ Library    DateTime
 Library    OperatingSystem
 Library    RPA.Robocorp.Vault
 Library    RPA.Notifier
+Library    RPA.Browser
 Suite Setup     Init Sheets    service_account.json
 
 *** Variables ***
