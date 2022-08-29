@@ -29,3 +29,5 @@ The attached robot code needs to be uploaded to the Control Room, with a few con
 ## Configuring Ada chat
 
 The following (long) image shows the entire Ada answer configuration used in this example. Remember to make sure you use the correct Workspace and Process IDs as well as your own API key from Control Room.
+
+![FireShot Capture 005 - partner-robocorp — Ada - partner-robocorp ada support](https://user-images.githubusercontent.com/40179958/187280854-6c1a9624-17e7-465d-8b4a-3108f01b2c6e.png)
