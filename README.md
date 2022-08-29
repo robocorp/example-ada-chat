@@ -24,7 +24,7 @@ The attached robot code needs to be uploaded to the Control Room, with a few con
 
 - Follow the instructions [here](https://robocorp.com/docs/libraries/rpa-framework/rpa-cloud-google) to share a Google Sheet, and add the contents to the `service_account.json` file.
 - Add a Vault entry named `Google` where you should have a secret called `laptop_sheet` that needs to have the ID of the sheet. The ID you can find from the URL when you are viewing your sheet. It's the long string with letters and numbers.
-- Add a Vaukt entry named `Mailchimp` where you should have a secret called `apikey` for sending the emails. OR replace this with your own preferred email service in the code.
+- Add a Vault entry named `Mailchimp` where you should have a secret called `apikey` for sending the emails. OR replace this with your own preferred email service in the code.
 
 ## Configuring Ada chat
 
