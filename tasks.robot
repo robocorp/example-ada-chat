@@ -3,11 +3,8 @@ Documentation       Ada chatbot laptop ordering IT support digital worker exampl
 
 Library    RPA.Robocorp.WorkItems
 Library    RPA.Cloud.Google
-Library    DateTime
-Library    OperatingSystem
 Library    RPA.Robocorp.Vault
 Library    RPA.Notifier
-Library    RPA.Browser
 Suite Setup     Init Sheets    service_account.json
 
 *** Variables ***
